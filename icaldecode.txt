@@ -1,0 +1,8 @@
+Tuple part 0: random email
+Tuple part 1: the number 0 (very useful)
+Tuple part 2: "none"
+Tuple part 3: some sort of date, maybe modification date?, often just none
+Tuple part 4: some sort of date again, never returns none
+Tuple part 5: START DATE and TIME
+Tuple part 6: END DATE and TIME
+Tuple part 8: Event Name
